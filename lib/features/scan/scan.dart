@@ -1,0 +1,1 @@
+export 'presentation/scan_page.dart';
