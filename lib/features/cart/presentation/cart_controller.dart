@@ -1,6 +1,5 @@
 
 import 'package:flutter_riverpod/legacy.dart';
-import 'package:state_notifier/state_notifier.dart';
 import '../../catalog/domain/product.dart';
 import '../domain/cart_item.dart';
 class CartState {
